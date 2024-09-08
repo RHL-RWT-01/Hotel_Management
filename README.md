@@ -19,8 +19,9 @@ How to Use
 2. Compile the Program:  "g++ -o HotelManagementSystem HotelManagementSystem.cpp"
 3. Run the program:   "./HotelManagementSystem"
 
-#How to Use the Program
-When you run the program, you’ll see a menu with options. Choose what you want to do by entering the corresponding number:
+How to Use the Program
+When you run the program, you’ll see a menu with options. 
+Choose what you want to do by entering the corresponding number:
 
 1. Display Rooms: Shows all rooms and whether they’re booked or available.
 2. Display Booked Rooms: Lists only rooms that are booked.
