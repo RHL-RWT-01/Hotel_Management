@@ -32,6 +32,8 @@ Choose what you want to do by entering the corresponding number:
 7. Cancel Booking: Enter room number to cancel the booking.
 8. Exit: Close the program
 
+
+
       #Example
    Hotel Management System
 1. Display Rooms
